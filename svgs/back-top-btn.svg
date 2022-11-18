@@ -1,0 +1,8 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 121" width="120" height="121">
+	<title>scroll-arrow-svg</title>
+	<style>
+		.s0 { fill: none;stroke: #ffffff;stroke-width: 2 } 
+	</style>
+	<path id="Layer" class="s0" d="m60 39.7v41.4"/>
+	<path id="Layer" class="s0" d="m71 70.7l-11 11.1-11-11.1"/>
+</svg>
